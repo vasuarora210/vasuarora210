@@ -1,6 +1,6 @@
 # Hi, I'm Vasu 👋
 
-📊 Data Analyst (Transitioning) | SQL • Power BI • Databricks  
+📊 Aspiring Data Analyst | SQL • Power BI • Databricks  
 
 I’m currently working at TCS and transitioning into Data Analytics.  
 I focus on transforming raw data into meaningful insights and building dashboards that support data-driven decision-making.
@@ -9,48 +9,62 @@ I focus on transforming raw data into meaningful insights and building dashboard
 
 ## 🚀 Core Skills
 
-- **SQL:** Data extraction, joins, aggregations, window functions  
+- **SQL:** Joins, aggregations, window functions, data analysis  
 - **Power BI:** Data modeling, DAX, dashboard development  
-- **Excel:** Advanced reporting, data analysis, automation  
+- **Excel:** Advanced reporting, data analysis  
 - **Databricks:** SQL analytics, data processing  
+- **Python:** Pandas, NumPy (data analysis & transformation)  
 
 ---
 
-## 📊 Featured Project
+## 📊 Featured Projects
 
-### 🔹 CO2 Emission Analysis (Databricks + SQL)
+### 🔹 Customer Behavior & Revenue Analytics  
+**SQL • Python • Power BI**
 
-Performed end-to-end analysis of CO2 emissions data across the United States to identify trends, regional disparities, and high-impact contributors.
+Analyzed customer transaction data to uncover behavioral patterns, revenue trends, and segmentation insights.
 
-Built an interactive dashboard to visualize insights and enable quick decision-making.
+- Processed **3,900+ transactions** using SQL & Python  
+- Built an **interactive Power BI dashboard** to track KPIs and customer segments  
+- Identified key insights:
+  - **2.1× higher revenue from male customers**
+  - **73% revenue contribution from non-subscribers**
+- Performed data cleaning, transformation, and exploratory analysis  
 
-**Key Insights:**
-- Top 10 states contribute ~51% of total emissions  
-- Higher population regions show lower per capita emissions (efficiency trend)  
-- Emissions are heavily concentrated in specific counties  
-
-👉 [View Project](https://github.com/vasuarora210/Emission_Project_Databricks)
 
 ---
 
-## 📈 What I’m Currently Focused On
+### 🔹 CO2 Emission Analysis  
+**Databricks • SQL • Data Visualization**
+
+Performed end-to-end analysis of US CO2 emissions data to identify trends and high-impact regions.
+
+- Built interactive dashboards to visualize emission patterns  
+- Analyzed emissions across states, counties, and population  
+- Key insights:
+  - Top 10 states contribute ~51% of total emissions  
+  - Higher population regions show lower per capita emissions  
+  - Emissions concentrated in specific counties  
+
+
+---
+
+## 📈 What I’m Currently Working On
 
 - Building real-world data analytics projects  
-- Strengthening SQL and Power BI expertise  
-- Improving data storytelling and visualization skills  
+- Strengthening SQL & Power BI expertise  
+- Improving data storytelling and visualization  
 
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: https://www.linkedin.com/  
-- Email: your-email@example.com  
+- LinkedIn:  www.linkedin.com/in/vasuarora01
+- Email: vasuarora210@gmail.com 
 
 ---
 
 ## 💡 Profile Summary
 
-I’m passionate about analyzing data to uncover patterns, trends, and insights.  
-Currently focused on building practical, real-world projects that demonstrate analytical thinking and problem-solving skills.
-
----
+I’m passionate about turning data into actionable insights.  
+Currently focused on building practical projects that demonstrate strong analytical thinking, problem-solving, and business understanding.
